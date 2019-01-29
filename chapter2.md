@@ -84,7 +84,7 @@ sentences = # YOUR CODE HERE
 
 ---
 
-## Insert exercise title here
+## Sentences - 3
 
 ```yaml
 type: NormalExercise
