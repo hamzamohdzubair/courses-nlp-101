@@ -21,7 +21,8 @@ text.split('something goes in here')
 
 `@pre_exercise_code`
 ```{python}
-
+import nltk
+nltk.download('punkt')
 ```
 
 `@sample_code`
