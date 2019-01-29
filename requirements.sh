@@ -10,7 +10,9 @@ pip3 install pandas==0.23.3
 # pip3 install numpy==1.15.0
 # pip3 install seaborn==0.9.0
 # pip3 install bokeh==0.13.0
+
 pip3 install nltk==3.4
+python -m nltk.downloader all
 
 # Include datasets in the image
 
