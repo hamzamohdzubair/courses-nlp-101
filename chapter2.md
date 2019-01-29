@@ -103,7 +103,8 @@ xp: 100
 
 `@pre_exercise_code`
 ```{python}
-
+import nltk
+nltk.download('punkt')
 ```
 
 `@sample_code`
